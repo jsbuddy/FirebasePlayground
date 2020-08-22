@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase Playground</string>
+    <string name="dbnode_users">users</string>
+    <string name="dbnode_journals">journals</string>
+</resources>
